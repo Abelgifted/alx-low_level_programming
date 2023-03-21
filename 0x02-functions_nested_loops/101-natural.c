@@ -1,4 +1,4 @@
-/*
+/**
 * File: 101-natural.c
 * Auth: vincent kip
 */
@@ -8,7 +8,7 @@
 *        that are multiples of 3 or 5.
 *
 * Return: Always 0.
-/
+*/
 int main(void)
 {
 int i, sum = 0;
